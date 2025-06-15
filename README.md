@@ -1,13 +1,13 @@
 <h1 align="center"> Hi there 👋! I'm Juan Fabrega </h1>
 <h3 align="center"> Software Developer </h3>
 
-# <picture><img src = "https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width = 70px></picture> About me
+## <picture><img src = "https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width = 70px></picture> About me
 I'm a 28-year-old Fullstack Developer from Argentina with nearly 5 years of professional experience.  
 I have worked in two companies, focusing on both frontend and backend development using modern technologies and agile methodologies like Scrum.
 </br>
 I'm currently pursuing my Bachelor's degree in Computer Science and in my 4th year of studies.
 
-# <picture><img src = "https://media.giphy.com/media/kL3ZvNKk4hyR1B8hVt/giphy.gif" width = 70px></picture> My skills
+## <picture><img src = "https://media.giphy.com/media/kL3ZvNKk4hyR1B8hVt/giphy.gif" width = 70px></picture> My skills
 #### Programming languages:
 <p>
   <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="java" height="30" width="30" />
@@ -70,7 +70,7 @@ I'm currently pursuing my Bachelor's degree in Computer Science and in my 4th ye
 
 
 <!--## <picture><img src = "https://media.giphy.com/media/S5sbwuhBgH8LGMnwqg/giphy.gif" width = 100px></picture> Connect with me-->
-# <picture><img src = "https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width = 100px></picture> Connect with me
+## <picture><img src = "https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width = 100px></picture> Connect with me
 <p>
   <a href="https://linkedin.com/in/juanignaciofabrega/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="juanignaciofabrega" height="30" width="30" /></a>
   <a href="https://github.com/juanifabrega" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" alt="juanifabrega" height="30" width="30" /></a>
