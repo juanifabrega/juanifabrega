@@ -36,6 +36,7 @@ I'm currently pursuing my Bachelor's degree in Computer Science and in my 4th ye
   <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="github" height="30" width="30" />
   <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Elasticsearch-Light.svg" alt="elastichsearch" height="30" width="30" />
   <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="postman" height="30" width="30" />
+  <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jenkins-Light.svg" alt="jenkis" height="30" width="30" />  
   <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg" alt="vscode" height="30" width="30" />
   <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Light.svg" alt="intellijidea" height="30" width="30" /> 
   <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Light.svg" alt="eclipse" height="30" width="30" /> 
