@@ -2,10 +2,13 @@
 <h3 align="center"> Software Developer </h3>
 
 ## <picture><img src = "https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width = 70px></picture> About me
-I'm a 28-year-old Fullstack Developer from Argentina with nearly 5 years of professional experience.  
-I have worked in two companies, focusing on both frontend and backend development using modern technologies and agile methodologies like Scrum.
-</br>
-I'm currently pursuing my Bachelor's degree in Computer Science and in my 4th year of studies.
+
+I'm a Fullstack Developer from Argentina with nearly 5 years of experience in the software industry.
+
+I currently work with Angular (frontend) and Java + Quarkus (backend), along with SQL databases.  
+I participate in Agile teams using Scrum, and apply CI/CD practices using Jenkins and GitLab CI/CD for automation, testing, and deployments.
+
+I'm also in my 4th year of a Bachelor's degree in Computer Science.
 
 ## <picture><img src = "https://media.giphy.com/media/kL3ZvNKk4hyR1B8hVt/giphy.gif" width = 70px></picture> My skills
 #### Programming languages:
@@ -13,12 +16,19 @@ I'm currently pursuing my Bachelor's degree in Computer Science and in my 4th ye
   <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="java" height="30" width="30" />
   <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="TypeScript" height="30" width="30" />
   <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" height="30" width="30" />
-  <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Light.svg" alt="kotlin" height="30" width="30" />
-  <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="c" height="30" width="30" />
-  <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="cpp" height="30" width="30" />
-  <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Light.svg" alt="php" height="30" width="30" />  
   <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html" height="30" width="30" />
 </p>
+
+<details>
+<summary> Other languages explored academically</summary>
+<p>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Light.svg" height="30" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" height="30" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" height="30" />
+  <img src="https://cdn.imgbin.com/19/5/9/imgbin-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-x2vvzpHKBmQaYkXV2vQ67GPY7.jpg" height="30" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Light.svg" height="30" />
+</p>
+</details>
 
 #### Frameworks & Libraries:
 <p>
@@ -70,8 +80,6 @@ I'm currently pursuing my Bachelor's degree in Computer Science and in my 4th ye
   </ul>
 </p>
 
-
-<!--## <picture><img src = "https://media.giphy.com/media/S5sbwuhBgH8LGMnwqg/giphy.gif" width = 100px></picture> Connect with me-->
 ## <picture><img src = "https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width = 100px></picture> Connect with me
 <p>
   <a href="https://linkedin.com/in/juanignaciofabrega/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="juanignaciofabrega" height="30" width="30" /></a>
