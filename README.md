@@ -3,12 +3,9 @@
 
 ## <picture><img src = "https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width = 70px></picture> About me
 
-I'm a Fullstack Developer from Argentina with nearly 5 years of experience in the software industry.
+Full-Stack Developer experienced in Angular, Java, Quarkus, and Spring Boot. I build solutions focused on scalability, maintainability, and performance, applying architecture best practices and agile workflows.
 
-I currently work with Angular (frontend) and Java + Quarkus (backend), along with SQL databases.  
-I participate in Agile teams using Scrum, and apply CI/CD practices using Jenkins and GitLab CI/CD for automation, testing, and deployments.
-
-I'm also in my 4th year of a Bachelor's degree in Computer Science.
+I work with SQL, CI/CD, testing, and modern tools to ensure quality at every stage of development. In this portfolio, you can explore the projects and technologies I work with daily.
 
 ## <picture><img src = "https://media.giphy.com/media/kL3ZvNKk4hyR1B8hVt/giphy.gif" width = 70px></picture> My skills
 #### Programming languages:
